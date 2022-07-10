@@ -1,1 +1,1 @@
-Get-Location
+Get-Location | Out-File testlocation.txt
